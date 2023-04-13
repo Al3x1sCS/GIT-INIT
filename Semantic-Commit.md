@@ -25,10 +25,17 @@ A mensagem deve ser clara e concisa, descrevendo o que foi feito. Use o tempo ve
 Exemplos:
 
 > feat: Adiciona opção de pagamento com cartão de crédito
+
 > fix(login): Corrige validação de e-mail
+
 > docs: Atualiza documentação sobre autenticação
+
 > style(home): Altera cor de fundo do cabeçalho
+
 > refactor: Remove código duplicado
+
 > test(auth): Adiciona testes de autenticação
+
 > chore: Atualiza versão do framework
-> Espero que isso ajude!
+
+Espero que isso ajude!
