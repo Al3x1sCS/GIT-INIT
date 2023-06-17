@@ -50,7 +50,7 @@ Módulos
 - Como buscar soluções e respostas no Stack Overflow
 - Continue estudando
 - Recursos adicionais:
-  - [Github Learning Lab](https://lab.github.com/)
+  - [Github Learning Lab](https://github.com/topics/github-learning-lab)
   - [Git-it](https://github.com/jlord/git-it-electron)
   - [Codecademy](https://www.codecademy.com/learn/learn-git)
   - [Git Exercises](https://gitexercises.fracz.com/)
